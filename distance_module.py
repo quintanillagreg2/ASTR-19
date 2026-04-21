@@ -1,0 +1,1 @@
+print("Hello, my name is Gregory Quintanilla (he/him). My favorite food is hashbrowns, and my favorite movie is the Revenant.")
